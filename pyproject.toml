@@ -1,0 +1,14 @@
+[project]
+name = "music-trends-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.1",
+    "pandas>=3.0.5",
+    "plotly>=6.9.0",
+    "polars>=1.43.2",
+    "sqlalchemy>=2.0.52",
+    "streamlit>=1.61.1",
+]
